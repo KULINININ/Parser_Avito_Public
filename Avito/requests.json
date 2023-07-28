@@ -1,0 +1,9 @@
+[
+    {
+        "_comment" : "_comment",
+        "bot_token" : "bot_token",
+        "chat_id" : "chat_id",
+        "api_parametrs" : "api_parametrs",
+        "region" : "region"
+    }
+]
